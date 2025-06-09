@@ -5,8 +5,8 @@
     {
       "chipFamily": "ESP32",
       "ota": {
-        "md5": "4d6261fca81d6df2e9c7d6f473dd0014",
-        "path": "https://raw.githubusercontent.com/0009281/SH/master/firmware.ota.bin"
+        "md5": "7fab9c4134dca1638a837ac170d95617",
+        "path": "https://raw.githubusercontent.com/0009281/SH/master/ok_dimmer.ota.bin"
       }
     }
   ]
