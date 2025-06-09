@@ -1,0 +1,13 @@
+{
+  "name": "OK Dimmer",
+  "version": "2025.2.2",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "md5": "4d6261fca81d6df2e9c7d6f473dd0014",
+        "path": "http://192.168.0.2/firmware.ota.bin"
+      }
+    }
+  ]
+}
