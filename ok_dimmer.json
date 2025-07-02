@@ -1,11 +1,11 @@
 {
   "name": "OK Dimmer",
-  "version": "1.04",
+  "version": "1.05",
   "builds": [
     {
       "chipFamily": "ESP32",
       "ota": {
-        "md5": "cdbb3dd01e04b76e2fc380a1dbd96f20",
+        "md5": "70915fbe785299eba06ffe6aac1dd55b",
         "path": "https://raw.githubusercontent.com/0009281/SH/master/okdimmer.ota.bin"
       }
     }
