@@ -1,6 +1,6 @@
 {
   "name": "OK Dimmer",
-  "version": "1.03",
+  "version": "1.04",
   "builds": [
     {
       "chipFamily": "ESP32",
